@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BOS](https://img.shields.io/badge/BOS%20Platform-FB542B?style=for-the-badge)
 ![UNINFO](https://img.shields.io/badge/UNINFO-5b92e5?style=for-the-badge)
+![UNINFO](https://img.shields.io/badge/User%20Migration-5b92e5?style=for-the-badge)
 ![OMT](https://img.shields.io/badge/Operations%20Management%20Team%20Chair-239120?style=for-the-badge)
 
 # UN User Migration Project
