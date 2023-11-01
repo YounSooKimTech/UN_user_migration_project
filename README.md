@@ -4,6 +4,8 @@
 
 # UN User Migration Project
 
+<br>
+
 ## Purpose
 The UN User Migration Project aims to migrate users from an old legacy platform to a new information portal. The primary objective is to identify middle managers who have the authority to approve individuals to input information for each country. The project involves several key checkpoints to ensure a smooth migration process:
 
@@ -14,6 +16,8 @@ The UN User Migration Project aims to migrate users from an old legacy platform 
 3. **Registration in the New Platform (UNINFO):** Confirm the registration of the middle manager in the new platform, UNINFO.
 
 4. **Matching the registered BOS and UNINFO Country:** Ensure that when a person is registered in UNINFO, their BOS (basis of selection) and UNINFO country are matched correctly.
+
+<br>
 
 ## Data
 The project relies on two sets of data:
