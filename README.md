@@ -1,3 +1,7 @@
+## Q&A
+- getting the data directly from OndDrive
+- Excelfile with multiple sheet. Raw file?
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![BOS](https://img.shields.io/badge/BOS%20Platform-FB542B?style=for-the-badge)
 ![UNINFO](https://img.shields.io/badge/UNINFO-5b92e5?style=for-the-badge)
